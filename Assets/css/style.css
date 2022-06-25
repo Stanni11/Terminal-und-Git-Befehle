@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@100&family=Anek+Malayalam:wght@100&family=Cairo:wght@200;500&family=League+Gothic&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@100&family=Anek+Malayalam:wght@100&family=Cairo:wght@200;300;500&family=League+Gothic&display=swap');
+
+
+
+body{
+    background-color: black;
+    color: beige;
+
+}
+
+a{
+    color: rgb(255, 255, 255);
+
+}
+
+h1 {
+    background-color: black;
+    color: lightgray;
+    font-family: 'Cairo', sans-serif;
+}
+h2{
+    color: white;
+}
+
+
+p{
+    background-color: black;
+    color: lightgray;
+    font-family: 'Cairo', sans-serif;
+
+}
